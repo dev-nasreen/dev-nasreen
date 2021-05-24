@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-nasreen
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I have learnt Javascript and React.js
 - 💞️ I’m looking to collaborate on Web Development.
 
 
