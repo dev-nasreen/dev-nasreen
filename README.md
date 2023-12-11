@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dev-nasreen
-- 👀 I’m interested in learning programming.
-- 🌱 I have learnt Javascript and React.js
-- 💞️ I’m looking to collaborate on Web Development.
+- 👋 Hi, I’m Nasrin
+- 👀 I’m passionate about tech learning.
+- 🌱 I am learning Javascript and React.js, Web analytics
+- 💞️ I’m looking to collaborate on Website tracking.
 
 
 <!---
